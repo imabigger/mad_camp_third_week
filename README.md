@@ -42,7 +42,8 @@
 
 ### 1) Splash Screen
 
-[Screen_Recording_20240717_190402_momentum.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/d6491973-627a-43fa-a64d-c667eb8b87b8/Screen_Recording_20240717_190402_momentum.mp4)
+https://github.com/user-attachments/assets/a5d53c2d-fe1e-409b-8cad-0adbf8d08651
+
 
 ### 2) Game Play Screen
 
@@ -87,7 +88,7 @@ https://github.com/user-attachments/assets/124890c7-603e-4b40-a167-432449e2008d
 
 ### 3) Game Over Logic
 
-[Screen_Recording_20240717_204631_momentum.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/24d16cff-1eef-4368-9cce-7ffa1a23f7ef/Screen_Recording_20240717_204631_momentum.mp4)
+https://github.com/user-attachments/assets/be057232-74ed-4e87-952c-2a0f6bfdc449
 
 ## Api 및 스키마
 
