@@ -46,9 +46,9 @@
 
 ### 2) Game Play Screen
 
-[KakaoTalk_Video_2024-07-17-20-53-40.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/6a7767a6-cd4d-4188-9e47-b33fd41a5228/KakaoTalk_Video_2024-07-17-20-53-40.mp4)
 
-### 3) Game Over Logic
+
+https://github.com/user-attachments/assets/124890c7-603e-4b40-a167-432449e2008d
 
 2-1) 회원가입 
 
@@ -84,12 +84,17 @@
 - AI로부터 스토리와 그 다음 선택지가 주어집니다.
 - 우측 위에 프로필 클릭시, 현재 캐릭터 스탯 및 아이템이 확인 가능합니다.
 
+
+### 3) Game Over Logic
+
 [Screen_Recording_20240717_204631_momentum.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/24d16cff-1eef-4368-9cce-7ffa1a23f7ef/Screen_Recording_20240717_204631_momentum.mp4)
 
 ## Api 및 스키마
 
 ---
 
-![스크린샷 2024-07-18 오후 1.30.43.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/b2f35256-9cd3-4e3c-95d6-4a7e3454d234/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-07-18_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_1.30.43.png)
+<img width="1696" alt="스크린샷 2024-07-18 오후 1 30 43" src="https://github.com/user-attachments/assets/d302f323-83c1-4e97-84a0-d766d241f9b6">
 
-![스크린샷 2024-07-18 오후 1.31.37.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/9f9e3b3d-cfce-4812-a280-20f145a0f43d/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-07-18_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_1.31.37.png)
+
+<img width="1075" alt="스크린샷 2024-07-18 오후 1 31 22" src="https://github.com/user-attachments/assets/be7ae896-38c0-48b8-9f33-e32f895d6702">
+
