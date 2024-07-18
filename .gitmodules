@@ -1,0 +1,6 @@
+[submodule "mad_camp_third_week_backend"]
+	path = mad_camp_third_week_backend
+	url = https://github.com/imabigger/mad_camp_third_week_backend.git
+[submodule "MadCamp_Project03_app"]
+	path = MadCamp_Project03_app
+	url = https://github.com/LeeHyo-Jeong/MadCamp_Project03_app.git
